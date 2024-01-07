@@ -1,0 +1,5 @@
+// The program input for hello/src/main.leo
+[main]
+public a: u8 = 1u8;
+b: u8 = 2u8;
+c: u8 = 3u8;
